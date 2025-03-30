@@ -23,7 +23,7 @@ How do use:
 
 This is currently under development and I am running it as a Temporary Add-On. It can be packaged and made permanent as is.
 
-You can load the extension temporarily to test it before packaging it permanently.
+You can load the extension temporarily to test it before packaging it permanently:
 
 1. Open Firefox.
 2. In the address bar, type about:debugging and hit Enter.
