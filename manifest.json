@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+  "name": "Internal Data Scraper",
+  "version": "1.0",
+  "description": "Scrapes AHI, Total Clear Airway Apneas, Total Obstructive Apneas, Total Hypopneas, and Usage from the internal page and copies the data to the clipboard.",
+  "permissions": ["activeTab", "clipboardWrite"],
+  "browser_action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  }
+  // Note: The "content_scripts" section has been removed.
+}
